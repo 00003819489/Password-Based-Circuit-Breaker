@@ -13,18 +13,6 @@ This project is a security-based system using 8051 microcontroller.
 - Keypad
 - LED / Relay
 
-## 🔧 Circuit Diagram
-![Circuit](circuit.png)
-
-## 📺 Output
-
-### System Working Demonstration
-
-![Setup](output1.jpeg)
-![Wrong Attempt](output2.jpeg)
-![System Locked](output3.jpeg)
-![Correct Password](output4.jpeg)
-
 ## 🎥 Demo Video
 [Watch Video](https://youtube.com/shorts/E63kIqqsp3k?si=N5fV7O6OqKIpPzC4)
 
